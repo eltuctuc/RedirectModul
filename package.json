@@ -1,0 +1,18 @@
+{
+  "name": "RedirectModul",
+  "version": "0.0.0",
+  "description": "Node.js-Modul - redirect allows you to configure a default domain an redirect any requests to this domain.",
+  "main": "./lib/redirect.js.js",
+  "author": {
+    "name": "Enrico Reinsdorf",
+    "email": "enrico.reinsdorf@re-design.de"
+  },
+  "repository": {
+	"type": "git",
+	"url": "git://github.com/eltuctuc/RedirectModul.git"
+  }
+  "dependencies": {
+    "node-force-domain": "~0.1.0",
+    "semver": "~2.2.1"
+  }
+}
